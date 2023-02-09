@@ -2,8 +2,8 @@ package guru.springframework.controllers;
 
 import guru.springframework.domain.Category;
 import guru.springframework.domain.UnitOfMeasure;
-import guru.springframework.repository.CategoryRepository;
-import guru.springframework.repository.UnitOfMeasureRepository;
+import guru.springframework.repositories.CategoryRepository;
+import guru.springframework.repositories.UnitOfMeasureRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
